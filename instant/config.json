@@ -1,0 +1,17 @@
+{
+  "version": "1", 
+  "name": "Transfers",
+  "abis": {
+    "Transfers": {
+      "path": "./usdt-erc20.abi.json"
+    }
+  },
+  "instances": [
+    {
+      "abi": "Transfers", 
+      "address": "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd", 
+      "startBlock": 428035, 
+      "chain": "taiko"
+    }
+  ]
+}
